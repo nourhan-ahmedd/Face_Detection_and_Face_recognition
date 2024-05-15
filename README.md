@@ -33,7 +33,7 @@ Description: Exploring the application of Eigenfaces for face recognition, utili
 - Through this approach, we aimed to demonstrate the effectiveness of Eigenfaces in accurately recognizing faces across varying conditions such as lighting, facial expressions, and minor occlusions. The project contributes to the understanding and application of dimensionality reduction techniques in the field of computer vision, particularly in the domain of face recognition.
 
 
-![Face Recognition](https://drive.google.com/uc?export=download&id=1fJjDlOX-1h0D5_P4NkgkRT6YbQV_3Oeh)
+![Face Recognition](https://drive.google.com/uc?export=download&id=1vYLV-l5TgxFsrVuTTrY7AH9249mUAejJ)
 
 
 ## 3. ROC Curve
