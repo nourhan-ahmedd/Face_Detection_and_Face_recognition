@@ -41,7 +41,7 @@ Description: Exploring the application of Eigenfaces for face recognition, utili
 Description: The Receiver Operating Characteristic (ROC) curve is a graphical representation used to assess the performance of a binary classifier system as its discrimination threshold is varied. It plots two parameters which are the true positive rate and the false positive rate:
 
 
-![ROC Curve](https://drive.google.com/uc?export=download&id=1fJjDlOX-1h0D5_P4NkgkRT6YbQV_3Oeh)
+![ROC Curve](https://drive.google.com/uc?export=download&id=1xjJx-Nc7Y8_j3qE6gewN7IGXucnJRJH6)
 
 
 ## Contributors
