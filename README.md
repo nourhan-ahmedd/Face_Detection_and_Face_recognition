@@ -17,7 +17,7 @@ This function is a fundamental component of the face detection process. It appli
 Several parameters, such as scaleFactor, minNeighbors, minSize, and maxSize, are provided to fine-tune the face detection process. These parameters control the sensitivity, accuracy, and computational efficiency of the detection algorithm.
 
 
-![Filtering and noise](https://drive.google.com/uc?export=download&id=1-YYlvcxqidRxzZF_ObBdyYf8JpUlHilk)
+![Face Detection](https://drive.google.com/uc?export=download&id=1fJjDlOX-1h0D5_P4NkgkRT6YbQV_3Oeh)
 
 
 ## 2. Face Recognition
