@@ -57,7 +57,6 @@ We would like to thank the following individuals for their contributions to this
         <sub><b>Nourhan Ahmed </b></sub>
       </a>
     </td>
-  <tr>
     <td align="center">
       <a href="https://github.com/OmarEmad101">
         <img src="https://github.com/OmarEmad101.png" width="100px" alt="@OmarEmad101">
