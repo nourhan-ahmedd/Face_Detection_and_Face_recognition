@@ -78,7 +78,6 @@ We would like to thank the following individuals for their contributions to this
         <sub><b>Khaled Badr</b></sub>
       </a>
     </td>
-  </tr> 
   <!-- New Row -->
     <td align="center">
       <a href="https://github.com/hanaheshamm">
